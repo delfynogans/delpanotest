@@ -166,4 +166,4 @@ for nama, nim, Tugas, UTS, UAS, nilaiAkhir in zip(nama, nim, nilaiTugas, nilaiUT
 print("+----+-----------------------+--------+--------+-------+-------+---------+")
 ```
 ## Hasil program
-![Alt text](gambar/delyno3.png)
+![Alt text](Gambar/delyno3.png)
